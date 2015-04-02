@@ -11,10 +11,17 @@ composing the files, because the requirements are not known beforehand.
 
 # Tools
 
-- Lemmatiseerija ("Lemmatizer"):  given any form of a word, it returns
+- [Lemmatiseerija][2] ("Lemmatizer"):  given any form of a word, it returns
   the dictionary form of that word.
 
-- Süntesaator ("Synthesizer"):  given the dictionary form of a word
+- [Süntesaator][3] ("Synthesizer"):  given the dictionary form of a word
   and a set of target forms, it returns the word in all target forms.
 
+- [English-Estonian dictionary][4]: an English-Estonian dictionary
+  provided by the [Institute of Estonian Language][5]
+
 [1]: https://en.wikipedia.org/wiki/Estonian_language
+[2]: http://filosoft.ee/lemma_et
+[3]: http://filosoft.ee/gene_et
+[4]: http://eki.ee/dict/ies
+[5]: http://eki.ee
